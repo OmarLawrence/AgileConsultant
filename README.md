@@ -1,4 +1,3 @@
-#Omar Lawrence
-I am here to teach myself how to code with the assistnace of those who know more than me. Am currently employed as a Business Support Coordinator in our Technology Department.
 # Omar Lawrence
-Newbie trying to teach himself code
+I would like to create my own consulting website. I am an experienced Product Owner and would like to offer my services on as a Product Owner/Manger consultant
+Looking to start a new business for myself
